@@ -6,7 +6,7 @@ Este repositorio contiene mis soluciones a problemas de programación competitiv
 
 ## Estructura
 - Cada carpeta corresponde a una plataforma de programación.
-- Los nombres de los archivos son `[ID_Problema]_Título`.
+- Los nombres de los archivos son `Título_[ID_Problema]`.
 
 ## Lenguajes utilizados
 - Java
